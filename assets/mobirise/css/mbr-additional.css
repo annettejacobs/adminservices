@@ -1387,7 +1387,7 @@ body {
 .cid-qD2gtdvLZ3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #0b7396;
+  background-color: #09607e;
 }
 .cid-qD2gtdvLZ3 h2 {
   text-align: center;
@@ -1464,4 +1464,106 @@ body {
 }
 .cid-qD2gtdvLZ3 .mbr-section-text {
   color: #ffffff;
+}
+.cid-qD2BjEXzLt {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qD2BjEXzLt .content {
+    text-align: center;
+  }
+  .cid-qD2BjEXzLt .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qD2BjEXzLt .img-logo img {
+  height: 6rem;
+}
+.cid-qD2BjEXzLt [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qD2BjEXzLt .input-group-btn {
+  display: inline-block;
+}
+.cid-qD2BjEXzLt .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qD2BjEXzLt .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qD2BjEXzLt [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+}
+.cid-qD2BjEXzLt .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qD2BjEXzLt .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qD2BjEXzLt .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qD2BjEXzLt .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qD2BjEXzLt .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qD2BjEXzLt .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qD2BjEXzLt .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qD2BjEXzLt .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qD2BjEXzLt form .input-group input.form-control,
+.cid-qD2BjEXzLt form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.cid-qD2BjEXzLt .form-inline {
+  justify-content: center;
+}
+.cid-qD2BjEXzLt .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-qD2BjEXzLt .foot-logo {
+    text-align: center !important;
+  }
+  .cid-qD2BjEXzLt .foot-title {
+    text-align: center !important;
+  }
+  .cid-qD2BjEXzLt .mbr-text {
+    text-align: center !important;
+  }
 }
