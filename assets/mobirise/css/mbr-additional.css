@@ -1846,3 +1846,24 @@ body {
 .cid-qD2EyA3tS4 .dropdown-item:hover {
   color: #0f7699 !important;
 }
+.cid-qDcl6n377K {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-qDcl6n377K .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qDcl6n377K .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qDcl6n377K .mbr-text {
+    text-align: center;
+  }
+}
