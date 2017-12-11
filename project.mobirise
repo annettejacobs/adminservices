@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Admin services",
-    "currentPage": "page3.html",
+    "name": "www.theadminguru.co.za",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,10 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 21,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
