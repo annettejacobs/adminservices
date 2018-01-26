@@ -1981,7 +1981,7 @@
               }
             },
             ".mbr-text B": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "content11",
